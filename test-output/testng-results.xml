@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-05T15:45:18 EDT" name="Default suite" finished-at="2023-09-05T15:45:56 EDT" duration-ms="38386">
+    <groups>
+    </groups>
+    <test started-at="2023-09-05T15:45:18 EDT" name="Default test" finished-at="2023-09-05T15:45:56 EDT" duration-ms="38386">
+      <class name="testLayer.LoginTest">
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:19 EDT" name="initialsetup" finished-at="2023-09-05T15:45:26 EDT" duration-ms="7574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="loginHRM(java.lang.String,java.lang.String)[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:26 EDT" name="loginHRM" data-provider="Details" finished-at="2023-09-05T15:45:29 EDT" duration-ms="2700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHRM -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:29 EDT" name="close" finished-at="2023-09-05T15:45:30 EDT" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:30 EDT" name="initialsetup" finished-at="2023-09-05T15:45:36 EDT" duration-ms="6040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="loginHRM(java.lang.String,java.lang.String)[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:36 EDT" name="loginHRM" data-provider="Details" finished-at="2023-09-05T15:45:39 EDT" duration-ms="2630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asfr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHRM -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:39 EDT" name="close" finished-at="2023-09-05T15:45:40 EDT" duration-ms="1057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:40 EDT" name="initialsetup" finished-at="2023-09-05T15:45:46 EDT" duration-ms="5792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="loginHRM(java.lang.String,java.lang.String)[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:46 EDT" name="loginHRM" data-provider="Details" finished-at="2023-09-05T15:45:48 EDT" duration-ms="2606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHRM -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:48 EDT" name="close" finished-at="2023-09-05T15:45:49 EDT" duration-ms="1024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:49 EDT" name="initialsetup" finished-at="2023-09-05T15:45:55 EDT" duration-ms="5948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:55 EDT" name="Title" finished-at="2023-09-05T15:45:55 EDT" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@7c7b252e]" started-at="2023-09-05T15:45:55 EDT" name="close" finished-at="2023-09-05T15:45:56 EDT" duration-ms="1059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
